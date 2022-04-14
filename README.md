@@ -4,6 +4,8 @@
 *  [Docker](https://docs.docker.com/)  
 * python3-pip (`sudo apt install python3-pip`)
 * Pipenv (`sudo apt install pipenv`)
+* Personal [Api Key and Token] (https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/#actions)
+    * Replace the keys in credentials.txt with your personal ones
 
 ## Virtual environment setup
 Navigate to the project folder and type:
